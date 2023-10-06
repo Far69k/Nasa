@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "392660158068",
+    "project_id": "space-apps-a28e8",
+    "storage_bucket": "space-apps-a28e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392660158068:android:6d6f847656bc8152013321",
+        "android_client_info": {
+          "package_name": "com.example.nasa_space_apps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKHxuG6DWfU-Gq8Pbz3EOsf7ND7hSZVvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
